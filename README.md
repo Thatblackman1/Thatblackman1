@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Johnny 👋
 
-<!--
-**Thatblackman1/Thatblackman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Virtual Assistant with skills in:
+- Data entry & online research
+- Excel & Google Sheets
+- Social media support
+- Basic data analysis
 
-Here are some ideas to get you started:
+I'm currently building real-world projects to grow my skills and work remotely.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Email: your@email.com  
+🌍 Location: Remote
+
+Heres my CV [John Uvietaire.pdf](https://github.com/user-attachments/files/24810030/John.Uvietaire.pdf)
+
+here are some of my work [John Uvietaire_UK_20-23 Decmber .pptx](https://github.com/user-attachments/files/24810051/John.Uvietaire_UK_20-23.Decmber.pptx)
+
+[Copy of Business Travel Itinerary Template - Chronological.docx](https://github.com/user-attachments/files/24810052/Copy.of.Business.Travel.Itinerary.Template.-.Chronological.docx)
+
+[Uvietaire John_VA Employment Project Plan_11_9_2025.xlsx](https://github.com/user-attachments/files/24810060/Uvietaire.John_VA.Employment.Project.Plan_11_9_2025.xlsx)
